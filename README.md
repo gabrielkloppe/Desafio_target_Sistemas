@@ -19,7 +19,7 @@ imprimir(SOMA);
 ```
 Ao final do processamento, qual será o valor da variável SOMA?
 
- [![Logo](https://www2.flamingtext.com.br/Tools/download/coollogo_com.gif?url=https://ov12-engine.flamingtext.com/netfu/tmp28008/coollogo_com-98153205.gif&_loc=image)](https://)
+## [RESPOSTA: 91.](https://github.com/gabrielkloppe/Desafio_target_Sistemas/blob/main/Soma/Soma.js)
 
 2. Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
@@ -27,7 +27,7 @@ IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-[![Logo](https://www2.flamingtext.com.br/Tools/download/coollogo_com.gif?url=https://ov12-engine.flamingtext.com/netfu/tmp28003/coollogo_com-99852875.gif&_loc=image)](https://)
+## [RESPOSTA:](https://github.com/gabrielkloppe/Desafio_target_Sistemas/blob/main/Fibonacci/Fibonacci.js)
 
 3. Descubra a lógica e complete o próximo elemento:
 
@@ -64,5 +64,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-[
-![Logo](https://www2.flamingtext.com.br/Tools/download/coollogo_com.gif?url=https://ov12-engine.flamingtext.com/netfu/tmp28003/coollogo_com-99852875.gif&_loc=image)](https://)
+## [RESPOSTA:](https://github.com/gabrielkloppe/Desafio_target_Sistemas/blob/main/InverterString/InverterString.js)
