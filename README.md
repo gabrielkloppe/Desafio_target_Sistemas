@@ -50,7 +50,9 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 ```
 RESPOSTA:
 
- Ligo um dos interruptores e espero um pouco. Desligo e ligo um segundo interruptor. Vou até a sala da lâmpadas:
+ Ligo um dos interruptores e espero um pouco.
+ Desligo e ligo um segundo interruptor. 
+ Vou até a sala da lâmpadas:
  - A lâmpada desligada e quente corresponde ao primeiro interruptor. 
  - A lâmpada acesa ao segundo 
 - E a lâmpada apagada e fria ao terceiro.
